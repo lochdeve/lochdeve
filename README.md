@@ -1,6 +1,5 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/?username=lochdeve&count_private=true&theme=dark&show_icons=true&hide_border=true)](https://github.com/lochdeve)
-
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=lochdeve&exclude_repo=Proyecto-Final-II-Simonsters&langs_count=8&theme=dark&layout=compact&hide_border=true&count_private=true)](https://github.com/lochdeve)
 
 
